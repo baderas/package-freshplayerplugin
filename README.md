@@ -1,18 +1,18 @@
 # package_freshplayerplugin
 
-This script packages Freshplayerplugin for Debian
+This script packages Freshplayerplugin for Debian<br />
 Tested with Freshplayerplugin version 0.3.1 on Debian Jessie
 
-Thx to:
-i-rinat <ibragimovrinat@mail.ru> for Freshplayerplugin
-https://github.com/i-rinat/freshplayerplugin
-webupd8 for Control file
-http://ppa.launchpad.net/nilarimogard/webupd8/ubuntu/pool/main/f/freshplayerplugin/
-Debian Wiki
-https://wiki.debian.org/Freshplayerplugin
+Thx to:<br />
+i-rinat <ibragimovrinat@mail.ru> for Freshplayerplugin<br />
+https://github.com/i-rinat/freshplayerplugin<br />
+webupd8 for Control file<br />
+http://ppa.launchpad.net/nilarimogard/webupd8/ubuntu/pool/main/f/freshplayerplugin/<br />
+Debian Wiki<br />
+https://wiki.debian.org/Freshplayerplugin<br />
 
-build-deps:
+build-deps:<br />
 build-essential git cmake pkg-config libglib2.0-dev libasound2-dev libx11-dev libgl1-mesa-dev liburiparser-dev libcairo2-dev libpango1.0-dev libpangocairo-1.0-0 libpangoft2-1.0-0 libfreetype6-dev libgtk2.0-dev libxinerama-dev libconfig-dev libevent-dev libegl1-mesa-dev libgles2-mesa-dev ragel libssl-dev libv4l-dev libavcodec-dev libavutil-dev libva-dev libva-x11-1 libvdpau-dev
 
-optional build-deps:
+optional build-deps:<br />
 libpulse-dev libjack-dev
