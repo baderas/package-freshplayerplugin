@@ -3,6 +3,8 @@
 This script packages Freshplayerplugin for Debian<br />
 Tested with Freshplayerplugin version 0.3.1 on Debian Jessie
 
+Warning: This script worked for me but is kind of raw and unpolished. Use at your own risk!
+
 **Thx to:**<br />
 i-rinat <ibragimovrinat@mail.ru> for Freshplayerplugin<br />
 https://github.com/i-rinat/freshplayerplugin<br />
