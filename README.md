@@ -1,4 +1,4 @@
-# package_freshplayerplugin
+# package-freshplayerplugin
 
 This script packages Freshplayerplugin for Debian<br />
 Tested with Freshplayerplugin version 0.3.1 on Debian Jessie
