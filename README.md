@@ -23,3 +23,4 @@ git clone https://github.com/baderas/package-freshplayerplugin.git<br />
 cd package-freshplayerplugin<br />
 ./package_freshplayerplugin.sh<br />
 sudo dpkg -i freshplayerplugin-0.3.1-amd64.deb<br />
+sudo apt-get install -f<br />
