@@ -17,7 +17,7 @@ build-essential git cmake pkg-config libglib2.0-dev libasound2-dev libx11-dev li
 **Optional build-deps:**<br />
 libpulse-dev libjack-dev
 
-**Usage**<br />
+**Usage (example):**<br />
 cd /tmp<br />
 git clone https://github.com/baderas/package-freshplayerplugin.git<br />
 cd package-freshplayerplugin<br />
